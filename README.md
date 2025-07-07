@@ -138,4 +138,76 @@ Ref.23: Searching Galaxy-A30 and finding mac address
 Ref.24: Next question
 <img width="559" alt="p 1-3 - question 2" src="https://github.com/user-attachments/assets/43c7fef6-766e-4684-9cd3-7dc851988c90" />
 ---
-p.1-4 nbns flag opcode ==5
+Ref.25: nbns flag opcode ==5 and nbns.name contain which displays 16 packets
+<img width="682" alt="p 1-4 nbns flag opcode ==5 and nbns name contain  which displays 16 packets" src="https://github.com/user-attachments/assets/9dd6648b-f261-4df8-9780-3101894c7c99" />
+---
+Ref.26: Next question
+<img width="682" alt="p 1-4 nbns flag opcode ==5 and nbns name contain  which displays 16 packets" src="https://github.com/user-attachments/assets/210e40dc-7c82-497a-bc3c-bc76b7d3bc74" />
+---
+Ref.27: dhcp requested hostname and found answer in packet
+<img width="695" alt="p 1-6 dhcp requested hostname and found answer in packet" src="https://github.com/user-attachments/assets/bdcb6178-a2f3-4bee-a654-cd47be64b848" />
+---
+Ref.28: Next question
+<img width="539" alt="p 1-7 question 4" src="https://github.com/user-attachments/assets/2e97e310-eccd-4abc-b097-a0e583eb9fae" />
+---
+Ref.29: searching u5
+<img width="689" alt="p 1-8 searching u5" src="https://github.com/user-attachments/assets/621209cd-926f-4d59-a8cb-1c5e3caeb1c8" />
+---
+Ref.30: Next question
+<img width="569" alt="p 1-9 question 5" src="https://github.com/user-attachments/assets/94bb9bef-e45b-4ed3-90d5-a19c92766a87" />
+---
+Ref.31: searching cname and finding the one with $
+<img width="683" alt="p -10 searching cname and finding the one with $" src="https://github.com/user-attachments/assets/12cb1f39-2d0e-41fb-a198-531409ea3937" />
+---
+Ref.32: All questions answered
+<img width="554" alt="p 11- allquestions answered" src="https://github.com/user-attachments/assets/681877c6-4a94-4af1-a7e8-3efbcf7d99ea" />
+---
+Ref.34: Scenario
+<img width="601" alt="yep3 -1 scenario" src="https://github.com/user-attachments/assets/140272ad-7698-4ecf-8c8f-479131878212" />
+---
+Ref.35: Question 1
+<img width="613" alt="yep3-2 question 1" src="https://github.com/user-attachments/assets/4e774f54-33a7-4421-91ba-09553f5350fb" />
+---
+Ref.36: did http user.agent then applied the user agent as a column and since windows nt 6.4 is anomolous there is 6 packets
+<img width="931" alt="yep3-3 did http user agent then applient the user agent as a column and since windows nt 6 4 is anomalous there is 6 packets" src="https://github.com/user-attachments/assets/6735f3ea-82fc-421b-a1db-afab7823e397" />
+---
+Ref.36: Next question
+<img width="314" alt="yep3-4 question 2" src="https://github.com/user-attachments/assets/51211be3-c9e5-46ea-9172-9f5b6aaf9f3e" />
+---
+Ref.37: packet 52 spells mozilla like mozlila
+<img width="958" alt="yep3-5 packet 52 spells mozilla like mozlila" src="https://github.com/user-attachments/assets/cbf61728-4654-4647-a10f-9c2124d75d19" />
+---
+Ref.37: Next question
+<img width="289" alt="yep3-6 question" src="https://github.com/user-attachments/assets/80142e23-e1ef-4017-b951-0291c61528ff" />
+---
+Ref.38: 444 is first log4j packet
+<img width="946" alt="yep3- 7 444 is first log4j packet" src="https://github.com/user-attachments/assets/9188cd27-c5fd-40cd-a0ed-3c702342825d" />
+---
+Ref.39: Next question
+<img width="340" alt="yep3- 8 question" src="https://github.com/user-attachments/assets/ccf4c4dc-abc5-49be-864a-b0e59212befc" />
+---
+Ref.40: decoding base64 command
+<img width="1012" alt="yep3-10 decoding base64 command" src="https://github.com/user-attachments/assets/e2a3b823-239a-47fc-ae1c-05353c554b03" />
+---
+Ref.41: All questions answered
+<img width="305" alt="yep3-11 question answers" src="https://github.com/user-attachments/assets/8999f269-487e-43d2-9af0-811c6a0c35a2" />
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
